@@ -1,4 +1,4 @@
-// 
+// I used chatGPT for help cuz I'm sick rn and thinking for me is harder than it is normally
 const usersList = document.getElementById("users");
 const todosList = document.getElementById("todos");
 
