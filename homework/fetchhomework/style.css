@@ -1,0 +1,24 @@
+// I used chatGPT for help cuz I'm sick rn and thinking for me is harder than it is normally
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    display: flex;
+    gap: 40px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#users li {
+    cursor: pointer;
+    padding: 5px;
+    border-bottom: 1px solid #ccc;
+}
+
+#users li:hover {
+    background: #eee;
+}
